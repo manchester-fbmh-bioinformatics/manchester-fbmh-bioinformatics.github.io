@@ -1,0 +1,68 @@
+---
+layout:  page
+title:  "Seminars"
+permalink:  /seminars
+---
+
+Bioinformatics Seminar Series
+=============================
+
+The Bioinformatics Seminar Series started in early [2024](https://www.translation.manchester.ac.uk/2024/03/06/bioinformaticsseminars/) with the primary goal of showcasing groundbreaking research within the university, particularly in the dynamic realms of bioinformatics and computational biology.
+
+This page gives a summary of all talks, past and future, as well as information on how to join the mailing list to find out about future talks.
+
+
+Mailing list
+------------
+
+In order to join the mailing list,
+
+1.  Create a new e-mail addressed to **listserv@listserv.manchester.ac.uk**.
+2.  In the subject and body of the email type "subscribe fbmh-bioinformatics *Your Name*", removing the asterisks and quotation marks.
+3.  Click send.
+
+You should receive confirmation from the ListServ server shortly.
+
+
+Schedule
+--------
+
+### 2024 -- 2025
+
+
+| Date | Speaker | Position | Title |
+| ---- | ------- | -------- | ----- |
+| 2025/03/12 | TBA | TBA | TBA |
+| 2025/02/12 | TBA | TBA | TBA |
+| 2025/01/22 | Robert Sellers | Computational Biology Support -- CRUK-MI | Spatial Omics: Where are we now? |
+| 2025/01/22 | Seva (Vsevolod) Makeev | National Biomarker Centre, CRUK MI, Manchester. The Codebook/GRECO-BIT Consortium | Codebook: sequence specificity of yet uncharacterised human transcription factors |
+| 2024/12/11 | Maria Jakobsdottir | Senior bioinformatician, NIHR Manchester Biomedical Research Centre (BRC) Next Generation Phenotyping and Diagnostics (NGPD) | Principles behind timing of copy number gains and the AmplificationTimeR R package |
+| 2024/12/11 | Mitra Kabir | Research Associate in the Division of Evolution & Genomic Sciences, FBMH | Predicting Genes Linked to Cardiac Development Using Machine Learning |
+| 2024/11/13 | Raymond Wan | Postdoctoral Research Associate, Manchester Institute of Biotechnology | Workflow for the Application of a European Genetic Risk Score for Type 1 Diabetes on a Han-Chinese Population |
+| 2024/11/13 | Leo Zeef | Bioinformatician Core Facility Manager, FBMH | The Changing Role of Bioinformatics Support |
+| 2024/10/16 | Julian Selley | Proteomics Computer Office - Biological Mass Spectrometry Core Facility | TBA |
+| 2024/10/16 | Ramiro Bravo | Research Data Manager Core Facilities, FBMH | Research Data Management Best Practices and Guidelines |
+
+
+### 2023 -- 2024
+
+
+| Date | Speaker | Position | Title |
+| ---- | ------- | -------- | ----- |
+| 2024/06/11 | Simon Williams | Bioinformatician, FBMH | Genetic studies of congenital heart disease using the UK Biobank |
+| 2024/06/11 | Dave Lee | Cancer Research UK Manchester Institute | Parse Biosciences or 10x Genomics (-Flex)? An assessment of two single-cell RNA-seq technologies capable of multiplexing samples – Which one should I choose? |
+| 2024/05/14 | Mudassar Iqbal | Senior Lecturer, Division of Informatics, Imaging & Data Sciences | TBA |
+| 2024/05/14 | Charlotte Heaven | Research Associate, Division of Cancer Sciences, FBMH | Mathematical modelling of the cell cycle response to radiation reveals key relationships between radiation dose, LET and DNA fragment release |
+| 2024/04/09 | Alex Koch | Research Associate, Division of Cell Matrix Biology & Regenerative Medicine | Modelling cellular mechanisms with new graphical tools |
+| 2024/04/09 | William Morgans | Research Associate, Division of Informatics, Imaging & Data Sciences | intNMF: scalable non-negative matrix factorisation for analysing paired single cell RNA and ATAC sequencing data |
+| 2024/03/05 | Amin Ali | PhD student, Cancer Research UK Manchester Institute | Prostate Zones in Cancer Progression |
+| 2024/03/05 | Vicky Smith | Postdoctoral Scientist, Cancer Research UK Manchester Institute | Using high dimensional CyTOF data to explore the immune microenvironment of Acute Myeloid Leukaemia |
+| 2024/02/06 | Syed Murtuza Baker | Research Fellow, Division of Informatics, Imaging and Data Sciences, FBMH | Single-cell analysis |
+
+
+Maintained by
+-------------
+
+This page is maintained by [Raymond Wan](https://research.manchester.ac.uk/en/persons/raymond.wan/), on behalf of the Bioinformatics Strategy Steering group, led by [Prof. Simon Lovell](https://research.manchester.ac.uk/en/persons/simon.lovell).  Feel free to contact Raymond (raymond.wan@manchester.ac.uk) if you notice any mistakes or have any suggestions about this page.
+
+
