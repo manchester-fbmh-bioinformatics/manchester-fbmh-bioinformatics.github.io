@@ -33,7 +33,7 @@ Schedule
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
 | 2025/03/12 | TBA | TBA | TBA |
-| 2025/02/12 | TBA | TBA | TBA |
+| 2025/02/12 | N/A | N/A | Cancelled because of the [SBS Annual Celebratory Event](https://apps.bmh.manchester.ac.uk/applications/anon/announcement.aspx?Id=8070f116-7238-4fed-a7e7-c7c07475c835) |
 | 2025/01/22 | Robert Sellers | Computational Biology Support -- CRUK-MI | Spatial Omics: Where are we now? |
 | 2025/01/22 | Seva (Vsevolod) Makeev | National Biomarker Centre, CRUK MI, Manchester. The Codebook/GRECO-BIT Consortium | Codebook: sequence specificity of yet uncharacterised human transcription factors |
 | 2024/12/11 | Maria Jakobsdottir | Senior bioinformatician, NIHR Manchester Biomedical Research Centre (BRC) Next Generation Phenotyping and Diagnostics (NGPD) | Principles behind timing of copy number gains and the AmplificationTimeR R package |
@@ -58,11 +58,5 @@ Schedule
 | 2024/03/05 | Amin Ali | PhD student, Cancer Research UK Manchester Institute | Prostate Zones in Cancer Progression |
 | 2024/03/05 | Vicky Smith | Postdoctoral Scientist, Cancer Research UK Manchester Institute | Using high dimensional CyTOF data to explore the immune microenvironment of Acute Myeloid Leukaemia |
 | 2024/02/06 | Syed Murtuza Baker | Research Fellow, Division of Informatics, Imaging and Data Sciences, FBMH | Single-cell analysis |
-
-
-Maintained by
--------------
-
-This page is maintained by [Raymond Wan](https://research.manchester.ac.uk/en/persons/raymond.wan/), on behalf of the Bioinformatics Strategy Steering group, led by [Prof. Simon Lovell](https://research.manchester.ac.uk/en/persons/simon.lovell).  Feel free to contact Raymond (raymond.wan@manchester.ac.uk) if you notice any mistakes or have any suggestions about this page.
 
 
