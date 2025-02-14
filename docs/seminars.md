@@ -32,7 +32,8 @@ Schedule
 
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
-| 2025/03/12 | TBA | TBA | TBA |
+| 2025/03/12 | Joanne Edwards | Professor of Translational Cancer Pathology and Principal Investigator in the School of Cancer, University of Glasgow, UK | Dentification of patients at high risk of metachronous polyps to aid early detection strategies (online presentation) |
+| 2025/03/12 | Deniz Ece Kaya | Bioinformatician / Postdoctoral Research Associate (NIHR Manchester Biomedical Research Centre - Next Generation Phenotyping and Diagnostics) | Integrated Multi-Omics Approaches in Oncology: Machine Learning Methods |
 | 2025/02/12 | N/A | N/A | Cancelled because of the [SBS Annual Celebratory Event](https://apps.bmh.manchester.ac.uk/applications/anon/announcement.aspx?Id=8070f116-7238-4fed-a7e7-c7c07475c835) |
 | 2025/01/22 | Robert Sellers | Computational Biology Support -- CRUK-MI | Spatial Omics: Where are we now? |
 | 2025/01/22 | Seva (Vsevolod) Makeev | National Biomarker Centre, CRUK MI, Manchester. The Codebook/GRECO-BIT Consortium | Codebook: sequence specificity of yet uncharacterised human transcription factors |
