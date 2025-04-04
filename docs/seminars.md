@@ -32,6 +32,8 @@ Schedule
 
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
+| 2025/04/09 | Shilpa Garg | Senior Lecturer, University of Manchester | Efficient, high-resolution approaches for chromosome-scale pangenomics: human health and sustainability |
+| 2025/04/09 | Qian Zhao | Third year PhD candidate | Guidelines for alternative polyadenylation identification tools using single-cell and spatial transcriptomics data |
 | 2025/03/12 | Joanne Edwards | Professor of Translational Cancer Pathology and Principal Investigator in the School of Cancer, University of Glasgow, UK | Dentification of patients at high risk of metachronous polyps to aid early detection strategies (online presentation) |
 | 2025/03/12 | Deniz Ece Kaya | Bioinformatician / Postdoctoral Research Associate (NIHR Manchester Biomedical Research Centre - Next Generation Phenotyping and Diagnostics) | Integrated Multi-Omics Approaches in Oncology: Machine Learning Methods |
 | 2025/02/12 | N/A | N/A | Cancelled because of the [SBS Annual Celebratory Event](https://apps.bmh.manchester.ac.uk/applications/anon/announcement.aspx?Id=8070f116-7238-4fed-a7e7-c7c07475c835) |
