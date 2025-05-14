@@ -32,6 +32,8 @@ Schedule
 
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
+| 2025/05/20 | Kate Meeson | Research Associate in the Division of Evolution & Genomic Sciences | Can we predict the metabolic objectives of a cell? |
+| 2025/05/20 | Aliah Hawari | Research Associate / Computational Biologist in the School of Medical Sciences / Division of Cancer Sciences | Analysis of Mutational Signatures and Evolutionary Trajectories in Ovarian Cancer Using Deep Whole-Genome Sequences |
 | 2025/04/09 | Shilpa Garg | Senior Lecturer, University of Manchester | Efficient, high-resolution approaches for chromosome-scale pangenomics: human health and sustainability |
 | 2025/04/09 | Qian Zhao | Third year PhD candidate | Guidelines for alternative polyadenylation identification tools using single-cell and spatial transcriptomics data |
 | 2025/03/12 | Joanne Edwards | Professor of Translational Cancer Pathology and Principal Investigator in the School of Cancer, University of Glasgow, UK | Dentification of patients at high risk of metachronous polyps to aid early detection strategies (online presentation) |
