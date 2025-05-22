@@ -32,6 +32,8 @@ Schedule
 
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
+| 2025/06/17 | Aggie Turio | Bioinformatician / Postdoctoral Research Associate, School of Biological Sciences / Division of Immunology, Immunity to Infection and Respiratory Medicine | Practical challenges in analysis of breath metabolome |
+| 2025/06/17 | Peter Freeman | Lecturer in Healthcare sciences (Clinical bioinformatics, genomics), Division of Informatics, Imaging & Data Science | Standardising variant naming in literature to increase diagnostic rates |
 | 2025/05/20 | Kate Meeson | Research Associate in the Division of Evolution & Genomic Sciences | Can we predict the metabolic objectives of a cell? |
 | 2025/05/20 | Aliah Hawari | Research Associate / Computational Biologist in the School of Medical Sciences / Division of Cancer Sciences | Analysis of Mutational Signatures and Evolutionary Trajectories in Ovarian Cancer Using Deep Whole-Genome Sequences |
 | 2025/04/09 | Shilpa Garg | Senior Lecturer, University of Manchester | Efficient, high-resolution approaches for chromosome-scale pangenomics: human health and sustainability |
