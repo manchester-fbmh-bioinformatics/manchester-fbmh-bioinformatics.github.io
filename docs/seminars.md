@@ -27,6 +27,12 @@ You should receive confirmation from the ListServ server shortly.
 Schedule
 --------
 
+### 2025 -- 2026
+
+| Date | Speaker | Position | Title |
+| ---- | ------- | -------- | ----- |
+
+
 ### 2024 -- 2025
 
 
