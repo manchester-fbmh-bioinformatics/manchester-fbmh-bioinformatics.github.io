@@ -32,7 +32,8 @@ Schedule
 
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
-|      |         |          |       |
+| 2025/11/13 | Umang Uniyal | MSc student in Bioinformatics and Systems Biology, School of Biological Sciences | Integrating Genomic Analysis Tools for Automated AMR Prediction and ML model development for resistance prediction |
+| 2025/11/13 | Faiz Iqbal | PhD student, BBSRC DTP, Division of Informatics, Imaging, and Data Sciences, School of Health Sciences | Spartan: Geostatistics-Enhanced Graph Clustering Reveals Spatial Domains and Spatially Variable Genes in Spatial Transcriptomics |
 
 
 ### 2024 -- 2025
