@@ -27,13 +27,23 @@ You should receive confirmation from the ListServ server shortly.
 Schedule
 --------
 
+Dates in the future are tentative.
+
+
 ### 2025 -- 2026
 
 
 | Date | Speaker | Position | Title |
 | ---- | ------- | -------- | ----- |
+| 2026/05/14 | TBA | | |
+| 2026/04/16 | TBA | | |
+| 2026/03/12 | TBA | | |
+| 2026/02/12 | TBA | | |
+| 2026/01/22 | TBA | | |
+| 2025/12/11 | TBA | | |
 | 2025/11/13 | Umang Uniyal | MSc student in Bioinformatics and Systems Biology, School of Biological Sciences | Integrating Genomic Analysis Tools for Automated AMR Prediction and ML model development for resistance prediction |
 | 2025/11/13 | Faiz Iqbal | PhD student, BBSRC DTP, Division of Informatics, Imaging, and Data Sciences, School of Health Sciences | Spartan: Geostatistics-Enhanced Graph Clustering Reveals Spatial Domains and Spatially Variable Genes in Spatial Transcriptomics |
+| 2025/10/09 | Esra Isik | PhD student in Bioinformatics | Improving Cell-Type Deconvolution in Spatial Transcriptomics with Proteomics-Derived Priors | 
 
 
 ### 2024 -- 2025
