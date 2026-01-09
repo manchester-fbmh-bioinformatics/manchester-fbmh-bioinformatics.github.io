@@ -17,9 +17,9 @@ Mailing list
 
 In order to subscribe to the mailing list ("FBMH-BIOINFORMATICS"), send an e-mail to [FBMH-BIOINFORMATICS](mailto:FBMH-BIOINFORMATICS@listserv.manchester.ac.uk) with just "subscribe FBMH-BIOINFORMATICS" in the message body.
 
-Further information for subscribing is available [here](https://connect.manchester.ac.uk/esc?id=kb_article&sysparm_article=KB0010241).
+More detailed information about subscribing to the mailing list is available [here](https://connect.manchester.ac.uk/esc?id=kb_article&sysparm_article=KB0010241).
 
-Information about unsubscribing is available [here](https://connect.manchester.ac.uk/esc?id=kb_article&sysparm_article=KB0010602).
+Information about unsubscribing from the mailing list is available [here](https://connect.manchester.ac.uk/esc?id=kb_article&sysparm_article=KB0010602).
 
 
 Schedule
