@@ -15,13 +15,11 @@ This page gives a summary of all talks, past and future, as well as information 
 Mailing list
 ------------
 
-In order to join the mailing list,
+In order to subscribe to the mailing list ("FBMH-BIOINFORMATICS"), send an e-mail to [FBMH-BIOINFORMATICS](mailto:FBMH-BIOINFORMATICS@listserv.manchester.ac.uk) with just "subscribe FBMH-BIOINFORMATICS" in the message body.
 
-1.  Create a new e-mail addressed to **listserv@listserv.manchester.ac.uk**.
-2.  In the subject and body of the email type "subscribe fbmh-bioinformatics *Your Name*", removing the asterisks and quotation marks.
-3.  Click send.
+Further information for subscribing is available [here](https://connect.manchester.ac.uk/esc?id=kb_article&sysparm_article=KB0010241).
 
-You should receive confirmation from the ListServ server shortly.
+Information about unsubscribing is available [here](https://connect.manchester.ac.uk/esc?id=kb_article&sysparm_article=KB0010602).
 
 
 Schedule
