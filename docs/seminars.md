@@ -36,7 +36,7 @@ Dates in the future are tentative.
 | 2026/05/14 | TBA | | |
 | 2026/04/16 | TBA | | |
 | 2026/03/12 | TBA | | |
-| 2026/02/12 | TBA | Senior Biomedical Data Scientist at the newly founded MRC CoRE in Exposome Immunology. | CellTypeAI: Automated cell identification for scRNA-seq using local gen-AI |
+| 2026/02/12 | Rufus Daw | Senior Biomedical Data Scientist at the newly founded MRC CoRE in Exposome Immunology. | CellTypeAI: Automated cell identification for scRNA-seq using local gen-AI |
 | 2026/01/22 | Syed Murtuza Baker | Research Fellow in the Division of Informatics, Imaging & Data Sciences | Integrating spatial transcriptomics data: pitfalls and solutions |
 | 2025/11/13 | Umang Uniyal | MSc student in Bioinformatics and Systems Biology, School of Biological Sciences | Integrating Genomic Analysis Tools for Automated AMR Prediction and ML model development for resistance prediction |
 | 2025/11/13 | Faiz Iqbal | PhD student, BBSRC DTP, Division of Informatics, Imaging, and Data Sciences, School of Health Sciences | Spartan: Geostatistics-Enhanced Graph Clustering Reveals Spatial Domains and Spatially Variable Genes in Spatial Transcriptomics |
