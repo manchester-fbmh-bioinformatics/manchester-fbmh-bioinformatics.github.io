@@ -35,7 +35,8 @@ Dates in the future are tentative.
 | ---- | ------- | -------- | ----- |
 | 2026/05/14 | TBA | | |
 | 2026/04/16 | TBA | | |
-| 2026/03/12 | TBA | | |
+| 2026/03/12 | Arfa Mehmood | Postdoctoral researcher, School of Medical Sciences | Spatial Landscape of Prostate Cancer |
+| 2026/03/12 | Mobarak Hoque | Associate Professor in Multimodal Agentic AI for Healthcare in the Division of Informatics, Imaging and Data Science and a faculty member of the Centre for Computational Imaging and Modelling in Medicine (CIMIM) at the University of Manchester | Multimodal AI Vision-Language Foundation Models for Trustworthy Clinical Decision Support |
 | 2026/02/12 | Rufus Daw | Senior Biomedical Data Scientist at the newly founded MRC CoRE in Exposome Immunology. | CellTypeAI: Automated cell identification for scRNA-seq using local gen-AI |
 | 2026/01/22 | Syed Murtuza Baker | Research Fellow in the Division of Informatics, Imaging & Data Sciences | Integrating spatial transcriptomics data: pitfalls and solutions |
 | 2025/11/13 | Umang Uniyal | MSc student in Bioinformatics and Systems Biology, School of Biological Sciences | Integrating Genomic Analysis Tools for Automated AMR Prediction and ML model development for resistance prediction |
